@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "LemonMilk";
+  src: url(S:\Internshala\Projects\React_To_Do_List\React_To_Do_List\src\assets\fonts\lemonmilk.ttf);
+}
