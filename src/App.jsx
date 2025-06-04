@@ -47,7 +47,7 @@ function App() {
 
 
  return (
-  <div className="max-w-xl mx-auto mt-10 p-4 bg-[#02343F] text-[#F0EDCC] shadow-lg rounded hover:scale-105 transition-transform duration-200">
+  <div className="max-w-xl mx-auto mt-10 p-4 bg-[#02343F] text-[#F0EDCC] shadow-lg rounded hover:scale-102 transition-transform duration-200">
     <Header />
     <div className="flex gap-2 mb-4">
       <input
