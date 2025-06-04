@@ -23,7 +23,7 @@ It allows users to:
 
 
 ```bash
-git clone https://github.com/your-username/react-todo-app.git
+git clone https://github.com/Keerthi-Chiru/react-todo-app.git
 cd react-todo-app
 Install dependencies:
 
